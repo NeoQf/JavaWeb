@@ -10,6 +10,11 @@ import java.util.Properties;
  */
 public class ReflectTest {
     public static void main(String[] args) throws Exception {
+        // 可以创建类的对象，可以执行任意方法
+
+        /*
+            前提：不能改变该类的任何代码。
+         */
         // 1 加载配置文件
         // 1.1 创建Properties对象
         Properties pro = new Properties();
