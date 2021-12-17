@@ -2,5 +2,10 @@ package io.github.neoqf.annotation;
 
 public @interface MyAnno {
 
-    public abstract String show();
+    int value();
+    String show2();
+    Person per();
+    MyAnno2 anno2();
+    String[] strs();
+
 }
