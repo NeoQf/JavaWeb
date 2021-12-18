@@ -40,5 +40,14 @@ public class ReflectTest {
             }
          }
          */
+
+        // 3 加载该类进内存
+        Class cls = Class.forName(className);
+        // 4 创建对象
+        Object obj = cls.newInstance();
+        // 5 获取方法对象
+        Method method = cls.getMethod(methodName);
+        // 6 执行方法
+        method.invoke(obj);
     }
 }

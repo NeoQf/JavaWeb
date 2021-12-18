@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaWeb.iml" filepath="$PROJECT_DIR$/JavaWeb.iml" />
-      <module fileurl="file://$PROJECT_DIR$/day01_basicEnhence/day01_basicEnhence.iml" filepath="$PROJECT_DIR$/day01_basicEnhence/day01_basicEnhence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/part00_basicEnhence/part00_basicEnhence.iml" filepath="$PROJECT_DIR$/part00_basicEnhence/part00_basicEnhence.iml" />
     </modules>
   </component>
 </project>
