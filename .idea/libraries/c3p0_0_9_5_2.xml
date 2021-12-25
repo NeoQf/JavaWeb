@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="c3p0-0.9.5.2">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/part01_dataBase/day06_dataSource_jdbcTemplate/libs" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/part01_dataBase/day06_dataSource_jdbcTemplate/libs" recursive="false" />
+  </library>
+</component>
